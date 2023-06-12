@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning **Django, Flask**
 - 📝 I regularly write articles on [Linkedin]("https://www.linkedin.com/in/robert-khaliullin/")
 - 📫 Reach me by [LinkedIn]("https://www.linkedin.com/in/robert-khaliullin/"), [email](mailto:oktober13@proton.me)
-- 🔭 Currently, I'm working on a science-casting model
+- 🔭 Currently, I'm working on a nowcasting-model
 - 🌱 I'm currently studying at Beegeek
 - 👯 I invite you to collaborate
 - ⚡ Fun fact: Coincidences are not random
