@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-    <h1>Hi there, I'm  Robert</h1>
-    <h3>Python Developer from Ufa</h3>
+    <h1>Привет, меня зовут Роберт</h1>
+    <h3>Начинающий Python Developer из г.Уфа</h3>
 </div>
 
 <div id="socials" align="center">
@@ -26,19 +26,19 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-### About me
-- 🌱 I’m currently learning **Django, Flask**
-- 📝 I regularly write articles on [Linkedin]("https://www.linkedin.com/in/robert-khaliullin/")
-- 📫 Reach me by [LinkedIn]("https://www.linkedin.com/in/robert-khaliullin/"), [email](mailto:oktober13@proton.me)
-- 🔭 Currently, I'm working on a nowcasting-model
-- 🌱 I'm currently studying at Beegeek
-- 👯 I invite you to collaborate
-- ⚡ Fun fact: Coincidences are not random
-- 🌍 I speak English
+### Обо мне
+- 🌱 В настоящее время я изучаю **Django, Flask**
+- 📝 Пишу статьи на [Linkedin]("https://www.linkedin.com/in/роберт-халиуллин /")
+- 📫 Свяжитесь со мной по [LinkedIn]("https://www.linkedin.com/in/robert-khaliullin /"), [электронная почта](mailto:oktober13@proton.me )
+- 🔭 В настоящее время я работаю над проектом Django
+- 🌱 Непрерывно учусь в Beegeek
+- 👯 Приглашаю вас и готов к любому сотрудничеству
+- ⚡ Сократ крут: "Я знаю только то, что ничего не знаю, но другие не знают и этого"
+- 🌍 Я говорю на английском на уровне между A2 и B1, но не стою на месте =)
 
 ---
 
-### Languages and tools
+### Языки и инструменты
 
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="pandas" width="40" height="40"/>&nbsp;
 
 
-### My stat
+### Моя статистика
 
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oktober13&theme=github_dark" alt=""/>
