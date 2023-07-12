@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
 ### Обо мне
 - 🌱 В настоящее время я изучаю **Django, Flask**
-- 📝 Пишу статьи на [Linkedin]("https://www.linkedin.com/in/роберт-халиуллин/")
+- 📝 Пишу статьи на [Linkedin](https://www.linkedin.com/in/роберт-халиуллин/)
 - 📫 Свяжитесь со мной по [LinkedIn](https://www.linkedin.com/in/robert-khaliullin/), [по электронной почте](mailto:oktober13@proton.me )
 - 🔭 В настоящее время я работаю над проектом Django
 - 🌱 Непрерывно учусь в Beegeek
@@ -58,4 +58,14 @@ Here are some ideas to get you started:
      <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oktober13&theme=github_dark" alt=""/>
 </div>
 
+---
+
+### Обязательно посмотрите мои работы 😄
+
+- ⚡ [Пополняемая база шпоргалок по Python и полезным инструментам *py_cheat_sheets*](https://github.com/oktober13/py_cheat_sheets)
+- ⚡ [Мои Google Colab Notebooks по Машинному обучению и компьютерному зрению *py-homework-colabs*](https://github.com/oktober13/py-homework-colabs)
+- ⚡ [Постройте своё колесо жизни и наметьте цели 😄 *life_wheel*](https://github.com/oktober13/life_wheel)
+- ⚡ [Срочно сконвертируйте все свои PDF в текст, так будет лучше 😄 *pdf_converter*](https://github.com/oktober13/pdf_converter)
+- ⚡ [Остальные мои проекты](https://github.com/oktober13?tab=repositories)
+  
 ---
