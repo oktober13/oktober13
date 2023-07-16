@@ -66,6 +66,7 @@ Here are some ideas to get you started:
 - ⚡ [Мои Google Colab Notebooks по Машинному обучению и компьютерному зрению *py-homework-colabs*](https://github.com/oktober13/py-homework-colabs)
 - ⚡ [Постройте своё колесо жизни и наметьте цели =) *life_wheel*](https://github.com/oktober13/life_wheel)
 - ⚡ [Срочно сконвертируйте все свои PDF в текст, так будет лучше =) *pdf_converter*](https://github.com/oktober13/pdf_converter)
+- ⚡ [Самый простой Телеграм бот с интеграцией Chat GPT 3.5 Turbo](https://github.com/oktober13/gpt-bot)
 - ⚡ [Остальные мои проекты](https://github.com/oktober13?tab=repositories)
   
 ---
