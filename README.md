@@ -68,5 +68,6 @@ Here are some ideas to get you started:
 - ⚡ [Срочно сконвертируйте все свои PDF в текст, так будет лучше =) *pdf_converter*](https://github.com/oktober13/pdf_converter)
 - ⚡ [Самый простой Телеграм бот с интеграцией Chat GPT 3.5 Turbo](https://github.com/oktober13/gpt-bot)
 - ⚡ [Остальные мои проекты](https://github.com/oktober13?tab=repositories)
+- ⚡ [Gists](https://gist.github.com/oktober13)
   
 ---
