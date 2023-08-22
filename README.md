@@ -61,12 +61,12 @@ Here are some ideas to get you started:
 
 ### Be sure to check out my works
 
-⚡ [#Expandable cheat sheets database for Python and useful tools py_cheat_sheets](https://github.com/oktober13/py_cheat_sheets)
-⚡ [#My Google Colab Notebooks on Machine Learning and Computer Vision py-homework-colabs](https://github.com/oktober13/py-homework-colabs)
-⚡ [#Build your own wheel of life and set goals =) life_wheel](https://github.com/oktober13/life_wheel)
-⚡ [#Urgently convert all your PDFs to text, it'll be better =) pdf_converter](https://github.com/oktober13/pdf_converter)
-⚡ [#The simplest Telegram bot with Chat GPT 3.5 Turbo integration](https://github.com/oktober13/gpt-bot)
-⚡ [#My other projects](https://github.com/oktober13?tab=repositories)
-⚡ [#Gists](https://gist.github.com/oktober13)
+⚡ [#Expandable cheat sheets database for Python and useful tools py_cheat_sheets](https://github.com/oktober13/py_cheat_sheets)  
+⚡ [#My Google Colab Notebooks on Machine Learning and Computer Vision py-homework-colabs](https://github.com/oktober13/py-homework-colabs)  
+⚡ [#Build your own wheel of life and set goals =) life_wheel](https://github.com/oktober13/life_wheel)  
+⚡ [#Urgently convert all your PDFs to text, it'll be better =) pdf_converter](https://github.com/oktober13/pdf_converter)  
+⚡ [#The simplest Telegram bot with Chat GPT 3.5 Turbo integration](https://github.com/oktober13/gpt-bot)  
+⚡ [#My other projects](https://github.com/oktober13?tab=repositories)  
+⚡ [#Gists](https://gist.github.com/oktober13)  
   
 ---
