@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-    <h1>Привет, меня зовут Роберт</h1>
-    <h3>Начинающий Python Developer из г.Уфа</h3>
+    <h1>Hello, my name is Robert</h1>
+    <h3>I'm a beginner Python Developer from Ufa</h3>
 </div>
 
 <div id="socials" align="center">
@@ -26,18 +26,17 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-### Обо мне
-- 🌱 В настоящее время я изучаю **Django и Flask**;
-- 📝 Пишу статьи на [Linkedin](https://www.linkedin.com/in/роберт-халиуллин/);
-- 📫 Свяжитесь со мной по [LinkedIn](https://www.linkedin.com/in/robert-khaliullin/), [по электронной почте](mailto:oktober13@proton.me );
-- 🔭 Работаю над проектом Django;
-- 🌱 Непрерывно учусь в Beegeek;
-- 👯 Готов к любому сотрудничеству, [пишите](mailto:oktober13@proton.me );
+### About Me
+- 🌱 Currently, I'm learning **Django and Flask**;
+- 📝 Writing articles on [Linkedin](https://www.linkedin.com/in/роберт-халиуллин/);
+- 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/robert-khaliullin/), [email](mailto:oktober13@proton.me );
+- 🔭 Working on a Django project;
+- 🌱 Continuously learning at Beegeek;
+- 👯 Open to any collaboration, [feel free to write](mailto:oktober13@proton.me );
 
 ---
 
-### Языки и инструменты
-
+### Languages and Tools
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="bash" width="40" height="40"/>&nbsp;
@@ -48,8 +47,9 @@ Here are some ideas to get you started:
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" title="numpy" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" title="pandas" width="40" height="40"/>&nbsp;
 
+---
 
-### Моя статистика
+### My Statistics
 
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oktober13&theme=github_dark" alt=""/>
@@ -59,14 +59,14 @@ Here are some ideas to get you started:
 
 ---
 
-### Обязательно посмотрите мои работы
+### Be sure to check out my works
 
-- ⚡ [Пополняемая база шпоргалок по Python и полезным инструментам *py_cheat_sheets*](https://github.com/oktober13/py_cheat_sheets)
-- ⚡ [Мои Google Colab Notebooks по Машинному обучению и компьютерному зрению *py-homework-colabs*](https://github.com/oktober13/py-homework-colabs)
-- ⚡ [Постройте своё колесо жизни и наметьте цели =) *life_wheel*](https://github.com/oktober13/life_wheel)
-- ⚡ [Срочно сконвертируйте все свои PDF в текст, так будет лучше =) *pdf_converter*](https://github.com/oktober13/pdf_converter)
-- ⚡ [Самый простой Телеграм бот с интеграцией Chat GPT 3.5 Turbo](https://github.com/oktober13/gpt-bot)
-- ⚡ [Остальные мои проекты](https://github.com/oktober13?tab=repositories)
-- ⚡ [Gists](https://gist.github.com/oktober13)
+    ⚡ Expandable cheat sheets database for Python and useful tools py_cheat_sheets
+    ⚡ My Google Colab Notebooks on Machine Learning and Computer Vision py-homework-colabs
+    ⚡ Build your own wheel of life and set goals =) life_wheel
+    ⚡ Urgently convert all your PDFs to text, it'll be better =) pdf_converter
+    ⚡ The simplest Telegram bot with Chat GPT 3.5 Turbo integration
+    ⚡ My other projects
+    ⚡ Gists
   
 ---
