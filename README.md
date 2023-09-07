@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
     <h1>Hello, my name is Robert</h1>
-    <h3>I'm a beginner Python Developer from Ufa</h3>
+    <h3>I'm a beginner Python Developer</h3>
 </div>
 
 <div id="socials" align="center">
