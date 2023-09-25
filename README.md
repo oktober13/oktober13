@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-    <h1>Hello, my name is Robert</h1>
-    <h3>I'm a beginner Python Developer</h3>
+    <h1>Привет, меня зовут Роберт</h1>
+    <h3>Я начинающий разработчик Python</h3>
 </div>
 
 <div id="socials" align="center">
@@ -26,17 +26,17 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-### About Me
-- 🌱 Currently, I'm learning **Django and Flask**;
-- 📝 Writing articles on [Linkedin](https://www.linkedin.com/in/роберт-халиуллин/);
-- 📫 Contact me via [LinkedIn](https://www.linkedin.com/in/robert-khaliullin/), [email](mailto:oktober13@proton.me );
-- 🔭 Working on a Django project;
-- 🌱 Continuously learning at Beegeek;
-- 👯 Open to any collaboration, [feel free to write](mailto:oktober13@proton.me );
+### Обо мне
+- 🌱 В данный момент изучаю **Django and Flask**;
+- 📝 Пишу статьи в [Linkedin](https://www.linkedin.com/in/роберт-халиуллин/);
+- 📫 Свяжитесь со мной через [LinkedIn](https://www.linkedin.com/in/robert-khaliullin/), [email](mailto:robertxp129@gmail.com );
+- 🔭 Работаю над проектом на Django;
+- 🌱 Непрерывно обучаюсь;
+- 👯 Открыт к любому сотрудничеству, [не стесняйтесь писать](mailto:oktober13@proton.me );
 
 ---
 
-### Languages and Tools
+### Языки и инструменты
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="python" width="40" height="40"/>&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" title="bash" width="40" height="40"/>&nbsp;
@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 
 ---
 
-### My Statistics
+### Моя статистика
 
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oktober13&theme=github_dark" alt=""/>
@@ -59,14 +59,14 @@ Here are some ideas to get you started:
 
 ---
 
-### Be sure to check out my works
+### Ознакомьтесь с моими работами
 
-⚡ [#Expandable cheat sheets database for Python and useful tools py_cheat_sheets](https://github.com/oktober13/py_cheat_sheets)  
-⚡ [#My Google Colab Notebooks on Machine Learning and Computer Vision py-homework-colabs](https://github.com/oktober13/py-homework-colabs)  
-⚡ [#Build your own wheel of life and set goals =) life_wheel](https://github.com/oktober13/life_wheel)  
-⚡ [#Urgently convert all your PDFs to text, it'll be better =) pdf_converter](https://github.com/oktober13/pdf_converter)  
-⚡ [#The simplest Telegram bot with Chat GPT 3.5 Turbo integration](https://github.com/oktober13/gpt-bot)  
-⚡ [#My other projects](https://github.com/oktober13?tab=repositories)  
+⚡ [#База данных расширяемых шпаргалок для Python и полезных инструментов py_cheat_sheets](https://github.com/oktober13/py_cheat_sheets)  
+⚡ [#Мои заметки Google Colab по машинному обучению и компьютерному зрению py-homework-colabs](https://github.com/oktober13/py-homework-colabs)  
+⚡ [#Создайте свой собственный круг жизни и поставьте цели =) life_wheel](https://github.com/oktober13/life_wheel)  
+⚡ [#конвертируйте все свои PDF-файлы в текст, pdf_converter](https://github.com/oktober13/pdf_converter)  
+⚡ [#Самый простой бот Telegram с интеграцией Chat GPT 3.5 Turbo](https://github.com/oktober13/gpt-bot)  
+⚡ [#Мои другие проекты](https://github.com/oktober13?tab=repositories)  
 ⚡ [#Gists](https://gist.github.com/oktober13)  
   
 ---
