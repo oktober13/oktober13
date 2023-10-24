@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
     <h1>Привет, меня зовут Роберт</h1>
-    <h3>Я начинающий разработчик Python</h3>
+    <h3>Я Python Developer</h3>
 </div>
 
 <div id="socials" align="center">
