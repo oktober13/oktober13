@@ -17,7 +17,7 @@ Here are some ideas to get you started:
     <h3>Я Python Developer</h3>
 </div>
 
-<img align="right" alt="GIF" src="https://github.com/oktober13/code.gif?raw=true" width="500" height="320" />
+![code](https://github.com/oktober13/oktober13/assets/114009321/b64416c6-4f0e-4608-9415-33e99d014c73)
 
 <div id="socials" align="center">
     <a href="https://www.linkedin.com/in/robert-khaliullin/">
