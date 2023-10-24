@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 ### Ознакомьтесь с моими работами
 
-⚡ [#Шпаргалки для Python и инструментов py_cheat_sheets](https://github.com/oktober13/py_cheat_sheets)  
+⚡ [#Шпаргалки Python и др. py_cheat_sheets](https://github.com/oktober13/py_cheat_sheets)  
 ⚡ [#Google Colab по ML & CV py-homework-colabs](https://github.com/oktober13/py-homework-colabs)  
 ⚡ [#Круг жизни life_wheel](https://github.com/oktober13/life_wheel)  
 ⚡ [#Конвертер PDF в txt, pdf_converter](https://github.com/oktober13/pdf_converter)  
