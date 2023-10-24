@@ -63,11 +63,11 @@ Here are some ideas to get you started:
 
 ### Ознакомьтесь с моими работами
 
-⚡ [#База данных расширяемых шпаргалок для Python и полезных инструментов py_cheat_sheets](https://github.com/oktober13/py_cheat_sheets)  
-⚡ [#Мои заметки Google Colab по машинному обучению и компьютерному зрению py-homework-colabs](https://github.com/oktober13/py-homework-colabs)  
-⚡ [#Создайте свой собственный круг жизни и поставьте цели =) life_wheel](https://github.com/oktober13/life_wheel)  
-⚡ [#конвертируйте все свои PDF-файлы в текст, pdf_converter](https://github.com/oktober13/pdf_converter)  
-⚡ [#Самый простой бот Telegram с интеграцией Chat GPT 3.5 Turbo](https://github.com/oktober13/gpt-bot)  
+⚡ [#Шпаргалки для Python и инструментов py_cheat_sheets](https://github.com/oktober13/py_cheat_sheets)  
+⚡ [#Google Colab по ML & CV py-homework-colabs](https://github.com/oktober13/py-homework-colabs)  
+⚡ [#Круг жизни life_wheel](https://github.com/oktober13/life_wheel)  
+⚡ [#Конвертер PDF в txt, pdf_converter](https://github.com/oktober13/pdf_converter)  
+⚡ [#Telegram-бот с интеграцией Chat GPT 3.5 Turbo](https://github.com/oktober13/gpt-bot)  
 ⚡ [#Мои другие проекты](https://github.com/oktober13?tab=repositories)  
 ⚡ [#Gists](https://gist.github.com/oktober13)  
   
