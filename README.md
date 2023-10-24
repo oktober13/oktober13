@@ -26,10 +26,6 @@ Here are some ideas to get you started:
   </a>
 </div>
 
-<table>
-  <tr>
-    <td>
-
 ### Обо мне
 
 - 🌱 Изучаю всё новое в мире ML;
@@ -39,14 +35,7 @@ Here are some ideas to get you started:
 - 🌱 Многократный финалист хакатонов, призер Hacks-AI;
 - 👯 Открыт к любому сотрудничеству, [не стесняйтесь писать](mailto:oktober13@proton.me );
 
-    </td>
-    <td>
-
 <img src="https://github.com/oktober13/oktober13/assets/114009321/b64416c6-4f0e-4608-9415-33e99d014c73" width="500" height="320" />
-
-    </td>
-  </tr>
-</table>
 
 ---
 
