@@ -17,8 +17,6 @@ Here are some ideas to get you started:
     <h3>Я Python Developer</h3>
 </div>
 
-![code](https://github.com/oktober13/oktober13/assets/114009321/b64416c6-4f0e-4608-9415-33e99d014c73)
-
 <div id="socials" align="center">
     <a href="https://www.linkedin.com/in/robert-khaliullin/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
@@ -28,13 +26,27 @@ Here are some ideas to get you started:
   </a>
 </div>
 
+<table>
+  <tr>
+    <td>
+
 ### Обо мне
+
 - 🌱 Изучаю всё новое в мире ML;
-- 📝 Пишу статьи в [Linkedin](https://www.linkedin.com/in/роберт-халиуллин/);
+- 📝 Пишу статьи в [LinkedIn](https://www.linkedin.com/in/роберт-халиуллин/);
 - 📫 Свяжитесь со мной через [LinkedIn](https://www.linkedin.com/in/robert-khaliullin/), [email](mailto:robertxp129@gmail.com );
 - 🔭 Работаю над проектом на Django;
 - 🌱 Многократный финалист хакатонов, призер Hacks-AI;
 - 👯 Открыт к любому сотрудничеству, [не стесняйтесь писать](mailto:oktober13@proton.me );
+
+    </td>
+    <td>
+
+<img src="https://github.com/oktober13/oktober13/assets/114009321/b64416c6-4f0e-4608-9415-33e99d014c73" width="500" height="320" />
+
+    </td>
+  </tr>
+</table>
 
 ---
 
