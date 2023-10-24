@@ -13,7 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div id="header" align="center">
-    <h1>Привет, меня зовут Роберт</h1>
+    <h1 align="center">Привет, меня зовут <a href="https://t.me/khaliullinr/" target="_blank">Роберт</a> <img
+src="https://github.com/oktober13/oktober13/assets/114009321/81c657f2-75fb-4cb9-92dd-a13b286a77d3" height="32" /></h1>
     <h3>Я Python Developer</h3>
 </div>
 
