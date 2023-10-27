@@ -57,7 +57,7 @@ src="https://github.com/oktober13/oktober13/assets/114009321/81c657f2-75fb-4cb9-
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oktober13&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oktober13&theme=github_dark" alt=""/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oktober13&theme=github_dark" alt=""/>
-    <img src="https://github.com/oktober13/oktober13/assets/114009321/b64416c6-4f0e-4608-9415-33e99d014c73" width="500" height="320" align="right" />
+    
 </div>
 
 ---
@@ -73,3 +73,5 @@ src="https://github.com/oktober13/oktober13/assets/114009321/81c657f2-75fb-4cb9-
 ⚡ [#Gists](https://gist.github.com/oktober13)  
   
 ---
+   
+<img src="https://github.com/oktober13/oktober13/assets/114009321/b64416c6-4f0e-4608-9415-33e99d014c73" width="500" height="320" align="right" />
