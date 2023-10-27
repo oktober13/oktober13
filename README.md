@@ -59,6 +59,8 @@ src="https://github.com/oktober13/oktober13/assets/114009321/81c657f2-75fb-4cb9-
         <td align="center">
             <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oktober13&theme=github_dark" alt="Profile details oktober13" width="100%" height="auto" align="right" />
         </td>
+      </tr>
+      <tr>
         <td align="center">
           <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oktober13&theme=github_dark" alt="Most commit language oktober13" width="49%" height="auto" align="left" />
         </td>
