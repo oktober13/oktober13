@@ -55,13 +55,13 @@ src="https://github.com/oktober13/oktober13/assets/114009321/81c657f2-75fb-4cb9-
 
 <div id="stat" align="center">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oktober13&theme=github_dark" alt="Profile details oktober13" width="100%" height="auto" align="right" /><br>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oktober13&theme=github_dark" align="left" alt="Most commit language oktober13" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oktober13&theme=github_dark" align="right" alt="Stats oktober13" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oktober13&theme=github_dark" alt="Most commit language oktober13" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oktober13&theme=github_dark" alt="Stats oktober13" />
 
 </div>
 
 ---
-<div>  
+  
 ### Ознакомьтесь с моими работами
 
 ⚡ [#Шпаргалки Python и др. py_cheat_sheets](https://github.com/oktober13/py_cheat_sheets)  
@@ -71,7 +71,7 @@ src="https://github.com/oktober13/oktober13/assets/114009321/81c657f2-75fb-4cb9-
 ⚡ [#Telegram-бот с интеграцией Chat GPT 3.5 Turbo](https://github.com/oktober13/gpt-bot)  
 ⚡ [#Мои другие проекты](https://github.com/oktober13?tab=repositories)  
 ⚡ [#Gists](https://gist.github.com/oktober13)  
-</div>
+
 ---
    
 <img src="https://github.com/oktober13/oktober13/assets/114009321/1b8a0cf1-1153-4d6c-963e-d1e544994a6b" width="100%" height="auto" align="right" />
