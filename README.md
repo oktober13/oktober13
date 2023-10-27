@@ -54,10 +54,10 @@ src="https://github.com/oktober13/oktober13/assets/114009321/81c657f2-75fb-4cb9-
 ### Моя статистика
 
 <div id="stat" align="center">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oktober13&theme=github_dark" alt="Profile details oktober13" width="100%" height="auto" align="right" />
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=oktober13&theme=github_dark" alt="Profile details oktober13" width="100%" height="auto" align="right" /><br>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=oktober13&theme=github_dark" width="49%" height="auto" align="left" alt="Most commit language oktober13"/>
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=oktober13&theme=github_dark" width="49%" height="auto" align="right" alt="Stats oktober13"/>
-    
+    <br>
 </div>
 
 ---
