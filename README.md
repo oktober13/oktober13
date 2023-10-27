@@ -26,7 +26,7 @@ src="https://github.com/oktober13/oktober13/assets/114009321/81c657f2-75fb-4cb9-
     <img src="https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
   </a>
 </div>
-<div>
+
 ### Обо мне
 
 - 🌱 Изучаю всё новое в мире ML;
@@ -35,7 +35,7 @@ src="https://github.com/oktober13/oktober13/assets/114009321/81c657f2-75fb-4cb9-
 - 🔭 Работаю над проектом на Django;
 - 🌱 Многократный финалист хакатонов, призер Hacks-AI;
 - 👯 Открыт к любому сотрудничеству, [не стесняйтесь писать](mailto:oktober13@proton.me );
-</div>
+
 ---
 
 ### Языки и инструменты
@@ -61,7 +61,7 @@ src="https://github.com/oktober13/oktober13/assets/114009321/81c657f2-75fb-4cb9-
 </div>
 
 ---
-<div></div>   
+<div>  
 ### Ознакомьтесь с моими работами
 
 ⚡ [#Шпаргалки Python и др. py_cheat_sheets](https://github.com/oktober13/py_cheat_sheets)  
@@ -71,7 +71,7 @@ src="https://github.com/oktober13/oktober13/assets/114009321/81c657f2-75fb-4cb9-
 ⚡ [#Telegram-бот с интеграцией Chat GPT 3.5 Turbo](https://github.com/oktober13/gpt-bot)  
 ⚡ [#Мои другие проекты](https://github.com/oktober13?tab=repositories)  
 ⚡ [#Gists](https://gist.github.com/oktober13)  
-  
+</div>
 ---
    
 <img src="https://github.com/oktober13/oktober13/assets/114009321/1b8a0cf1-1153-4d6c-963e-d1e544994a6b" width="100%" height="auto" align="right" />
