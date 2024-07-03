@@ -29,7 +29,7 @@ src="https://github.com/oktober13/oktober13/assets/114009321/81c657f2-75fb-4cb9-
 
 ### Обо мне
 
-- 🔭 Работаю в качестве Data Analyst;
+- 🔭 Работаю Data Analyst;
 - 🌱 Изучаю всё новое в мире ML;
 - 📫 Свяжитесь со мной через [LinkedIn](https://www.linkedin.com/in/robert-khaliullin/), [email](mailto:robertxp129@gmail.com );
 - 🌱 Финалист и призер хакатонов;
