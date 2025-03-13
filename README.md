@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 <div id="header" align="center">
     <h1 align="center">Привет, меня зовут <a href="https://github.com/oktober13/" target="_blank">Роберт</a> <img
-src="https://github.com/oktober13/oktober13/assets/114009321/81c657f2-75fb-4cb9-92dd-a13b286a77d3" height="32" /></h1>
+src="[https://github.com/oktober13/oktober13/assets/114009321/81c657f2-75fb-4cb9-92dd-a13b286a77d3](https://camo.githubusercontent.com/f6240f1db6f4182e6f5d22ae2e05faacec5c0c5676f492966e2f2f1bc8a36d07/68747470733a2f2f6d656469612e74656e6f722e636f6d2f304370464f4b475661654d41414141692f68616e642d776176696e672d68616e642e676966)" height="32" /></h1>
     <h3>Я Data Analyst, а в душе Pythonist</h3>
 </div>
 
