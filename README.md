@@ -16,7 +16,7 @@ Here are some ideas to get you started:
     <h1 align="center">Привет, меня зовут <a href="https://github.com/oktober13/" target="_blank">Роберт</a> <img
 src="https://github.com/oktober13/oktober13/assets/114009321/81c657f2-75fb-4cb9-92dd-a13b286a77d3" height="32" 
     width="32" /></h1>
-    <h3>Я Data Analyst, а в душе Pythonist</h3>
+    <h3>Я Data Scientist, в душе Pythonist</h3>
 </div>
 
 <div id="socials" align="center">
@@ -30,7 +30,7 @@ src="https://github.com/oktober13/oktober13/assets/114009321/81c657f2-75fb-4cb9-
 
 ### Обо мне
 
-- 🔭 Работаю Data Analyst;
+- 🔭 Работаю Data Scientist/Analyst;
 - 🌱 Изучаю всё новое в мире ML;
 - 📫 Свяжитесь со мной через [LinkedIn](https://www.linkedin.com/in/robert-khaliullin/), [email](mailto:robertxp129@gmail.com );
 - 🌱 Финалист и призер хакатонов;
