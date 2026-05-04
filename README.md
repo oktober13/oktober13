@@ -66,11 +66,11 @@ src="https://github.com/oktober13/oktober13/assets/114009321/81c657f2-75fb-4cb9-
   <!-- Ряд 2: Аналитика, DWH и BI -->
   <tr>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbt/dbt-original.svg" width="40" height="40" alt="dbt" />
+        <img src="https://raw.githubusercontent.com/dbt-labs/dbt-core/fa1ea14ddfb1d5ae319d5141844910dd53ab2834/etc/dbt-core.svg" width="40" height="40" alt="dbt" />
         <br />dbt
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/superset/superset-original.svg" width="40" height="40" alt="superset" />
+        <img src="https://github.com/gilbarbara/logos/blob/main/logos/apache-superset-icon.svg" width="40" height="40" alt="superset" />
         <br />Superset
     </td>
     <td align="center" width="96">
@@ -89,8 +89,8 @@ src="https://github.com/oktober13/oktober13/assets/114009321/81c657f2-75fb-4cb9-
   <!-- Ряд 3: AI, ML и Инструменты -->
   <tr>
     <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="40" height="40" alt="ai" />
-        <br />AI / LLM
+        <img src="https://github.com/pheralb/svgl/blob/main/static/library/cursor_light.svg" width="40" height="40" alt="ai" />
+        <br />CURSOR
     </td>
     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="jupyter" />
