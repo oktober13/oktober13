@@ -40,7 +40,7 @@ src="https://github.com/oktober13/oktober13/assets/114009321/81c657f2-75fb-4cb9-
 
 ### Языки и инструменты
 <table>
-  <!-- Ряд 1: Основные языки и база -->
+  <!-- Ряд 1: Языки и Базовая инфраструктура -->
   <tr>
     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40" alt="python" />
@@ -51,29 +51,6 @@ src="https://github.com/oktober13/oktober13/assets/114009321/81c657f2-75fb-4cb9-
         <br />PostgreSQL
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="40" height="40" alt="bash" />
-        <br />Bash
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="linux" />
-        <br />Linux
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40" alt="git" />
-        <br />Git
-    </td>
-  </tr>
-  <!-- Ряд 2: Анализ данных и Big Data -->
-  <tr>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas" />
-        <br />Pandas
-    </td>
-    <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="40" height="40" alt="numpy" />
-        <br />NumPy
-    </td>
-    <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/clickhouse/clickhouse-original.svg" width="40" height="40" alt="clickhouse" />
         <br />ClickHouse
     </td>
@@ -82,23 +59,38 @@ src="https://github.com/oktober13/oktober13/assets/114009321/81c657f2-75fb-4cb9-
         <br />Airflow
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/hadoop/hadoop-original.svg" width="40" height="40" alt="hadoop" />
-        <br />Hadoop
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-plain.svg" width="40" height="40" alt="git" />
+        <br />Git
     </td>
   </tr>
-  <!-- Ряд 3: Визуализация и Инфраструктура -->
+  <!-- Ряд 2: Аналитика, DWH и BI -->
   <tr>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbt/dbt-original.svg" width="40" height="40" alt="dbt" />
+        <br />dbt
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/superset/superset-original.svg" width="40" height="40" alt="superset" />
+        <br />Superset
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" height="40" alt="pandas" />
+        <br />Pandas
+    </td>
     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="40" height="40" alt="grafana" />
         <br />Grafana
     </td>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="40" height="40" alt="plotly" />
-        <br />Plotly
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40" alt="linux" />
+        <br />Linux
     </td>
+  </tr>
+  <!-- Ряд 3: AI, ML и Инструменты -->
+  <tr>
     <td align="center" width="96">
-        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="docker" />
-        <br />Docker
+        <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" width="40" height="40" alt="ai" />
+        <br />AI / LLM
     </td>
     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" width="40" height="40" alt="jupyter" />
@@ -107,6 +99,14 @@ src="https://github.com/oktober13/oktober13/assets/114009321/81c657f2-75fb-4cb9-
     <td align="center" width="96">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kaggle/kaggle-original.svg" width="40" height="40" alt="kaggle" />
         <br />Kaggle
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="40" height="40" alt="docker" />
+        <br />Docker
+    </td>
+    <td align="center" width="96">
+        <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" width="40" height="40" alt="plotly" />
+        <br />Plotly
     </td>
   </tr>
 </table>
